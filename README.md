@@ -1,37 +1,33 @@
-# Hi there, I'm AndresMaqueo 👋
+👋 ¡Hola! Soy AndresMaqueo
+Community Manager de día 🌞 | Artista digital de noche 🌙
 
-![Profile views](https://gpvc.arturio.dev/AndresMaqueo)
+Mi misión es conectar comunidades a través de la tecnología y el arte, siempre explorando nuevas formas creativas para resolver desafíos técnicos y comunicar ideas.
 
-## 🚀 About Me
-I'm a passionate developer with a love for creating innovative solutions and tackling challenging problems. With a background in software engineering, I enjoy working on a variety of projects, from web development to machine learning.
+🛠️ Stack tecnológico
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring
-- **Databases:** MySQL, MongoDB, PostgreSQL
+Lenguajes: JavaScript, Python, Java, C++
+Frameworks: React, Node.js, Django, Spring
+Bases de Datos: MySQL, MongoDB, PostgreSQL
+DevOps: Docker, Kubernetes, CI/CD, GitHub Actions
+Cloud: Azure, AWS, herramientas modernas de DevOps
+🌱 Actualmente en proceso
 
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Cloud Computing with AWS and Azure
-- DevOps practices and tools
+Profundizando en Machine Learning y Data Science
+Dominando técnicas avanzadas en Azure Cloud y AWS
+Automatizando workflows sofisticados con GitHub Copilot y Power Automate
+📈 Estadísticas destacadas
 
-## 📫 How to reach me
-- **Email:** andresmaqueo@example.com
-- **LinkedIn:** [AndresMaqueo](https://www.linkedin.com/in/AndresMaqueo)
-- **Twitter:** [@AndresMaqueo](https://twitter.com/AndresMaqueo)
+[Mis estadísticas detalladas en GitHub](enlace a tus estadísticas personalizadas)
+🔥 Lenguajes principales
 
-## 📈 GitHub Stats
-![AndresMaqueo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresMaqueo&show_icons=true&theme=radical)
+Actualmente enfocándome en proyectos que usan JavaScript y Python como motores principales para impulsar soluciones escalables y creativas.
+🚧 Proyectos Recientes
 
-## 🔥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMaqueo&layout=compact&theme=radical)
+Proyecto 1: Automatización empresarial usando Power Automate y OpenAI.
+Proyecto 2: Integración avanzada de Azure y GitHub Copilot para eficiencia operativa.
+💬 Contacto
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🎨 Projects
-- [Project 1](https://github.com/AndresMaqueo/project1): A brief description of project 1.
-- [Project 2](https://github.com/AndresMaqueo/project2): A brief description of project 2.
-
-Thanks for visiting my profile! 😊
+📧 [Tu correo electrónico]
+🔗 [LinkedIn](tu enlace de LinkedIn)
+🐦 [Twitter](tu enlace de Twitter)
+¡Conéctate conmigo y llevemos juntos las ideas al siguiente nivel! 🚀
