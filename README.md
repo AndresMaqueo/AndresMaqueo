@@ -1,33 +1,71 @@
-👋 ¡Hola! Soy AndresMaqueo
-Community Manager de día 🌞 | Artista digital de noche 🌙
+# 👋 ¡Hola! Soy **Andres Maqueo Infanzon**
+**Especialista en Automatización, Inteligencia Artificial y Sistemas Empresariales**
 
-Mi misión es conectar comunidades a través de la tecnología y el arte, siempre explorando nuevas formas creativas para resolver desafíos técnicos y comunicar ideas.
+🚀 CTO en [Innovacapital](https://inversionand.com) | Cloud Architect | Líder Técnico en GitHub, Azure y Microsoft 365
 
-🛠️ Stack tecnológico
+---
 
-Lenguajes: JavaScript, Python, Java, C++
-Frameworks: React, Node.js, Django, Spring
-Bases de Datos: MySQL, MongoDB, PostgreSQL
-DevOps: Docker, Kubernetes, CI/CD, GitHub Actions
-Cloud: Azure, AWS, herramientas modernas de DevOps
-🌱 Actualmente en proceso
+### 🧠 Mi Misión
+Impulsar empresas mediante tecnología avanzada, automatización inteligente y soluciones personalizadas. Desarrollo infraestructura robusta, escalable y 100% automatizada con herramientas líderes del sector.
 
-Profundizando en Machine Learning y Data Science
-Dominando técnicas avanzadas en Azure Cloud y AWS
-Automatizando workflows sofisticados con GitHub Copilot y Power Automate
-📈 Estadísticas destacadas
+---
 
-[Mis estadísticas detalladas en GitHub](enlace a tus estadísticas personalizadas)
-🔥 Lenguajes principales
+### 🛠️ Stack Tecnológico
+- **Lenguajes:** JavaScript, Python, PowerShell, Java, C++, TypeScript
+- **Frameworks:** React, Node.js, Django, Express, Spring Boot
+- **DevOps & IA:** Docker, WSL2, GitHub Actions, Power Automate, Azure OpenAI, Copilot 365
+- **Cloud:** Azure, Microsoft 365, AWS
+- **Bases de Datos:** SQL Server, PostgreSQL, MySQL, MongoDB
+- **Automatización:** Power Apps, Power Automate, Visual Studio Code, ChatGPT API, OpenAI SDK
 
-Actualmente enfocándome en proyectos que usan JavaScript y Python como motores principales para impulsar soluciones escalables y creativas.
-🚧 Proyectos Recientes
+---
 
-Proyecto 1: Automatización empresarial usando Power Automate y OpenAI.
-Proyecto 2: Integración avanzada de Azure y GitHub Copilot para eficiencia operativa.
-💬 Contacto
+### 📊 En qué estoy trabajando ahora
+- 🔁 **Infraestructura IA Empresarial** totalmente automatizada con GitHub + Azure + Power Platform.
+- 🧠 **Despliegue de Asistentes IA** personalizados con OpenAI, Teams y Copilot 365.
+- 📦 Publicación de librerías y herramientas de automatización en GitHub.
+- 🌐 Desarrollo de plataforma comercial para ofrecer automatizaciones como servicio (SaaS).
 
-📧 [Tu correo electrónico]
-🔗 [LinkedIn](tu enlace de LinkedIn)
-🐦 [Twitter](tu enlace de Twitter)
-¡Conéctate conmigo y llevemos juntos las ideas al siguiente nivel! 🚀
+---
+
+### 🌍 Impacto y Comunidad
+- 🧾 +35 insignias, +8 trofeos en Microsoft Learn
+- 📘 Certificaciones en Azure, AI, Seguridad, DevOps y Automatización
+- 🛡️ Control total sobre infraestructura, auditoría y seguridad en Microsoft Defender + Entra ID
+- 🔗 Red activa en GitHub, LinkedIn y GoDaddy
+- 🌱 Miembro de Tree-Sitter, OpenBB y Proyectos de IA distribuidos
+
+---
+
+### 📂 Repositorios Destacados
+- `Performanvi-Advanced-Automation`: Automatización avanzada con PowerShell y GitHub
+- `OpenBB-finanzas/OpenBB`: Finanzas impulsadas por IA y visualización interactiva
+- `av-is-aviable`: Sistema de verificación automática de disponibilidad con Node.js y Power Automate
+
+---
+
+### 📈 Tecnologías Favoritas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMaqueo&layout=compact&theme=radical)
+
+### 🧠 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresMaqueo&show_icons=true&theme=radical)
+
+---
+
+### 📬 Contacto Profesional
+- 📧 Email: [innovacapital@inversionand.com](mailto:innovacapital@inversionand.com)
+- 🌐 Web: [inversionand.com](https://inversionand.com)
+- 💼 LinkedIn: [linkedin.com/in/andresmaqueo](https://linkedin.com/in/andresmaqueo)
+- 🐙 GitHub: [@AndresMaqueo](https://github.com/AndresMaqueo)
+
+---
+
+### 💡 Frase que me define
+> "No solo construyo sistemas. Construyo el futuro del trabajo automatizado."
+
+---
+
+📌 **Este repositorio especial hace visible este README en tu perfil público.**
+
+¡Conectemos, colaboremos y elevemos tus ideas al siguiente nivel! 🚀
+
