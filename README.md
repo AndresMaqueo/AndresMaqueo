@@ -68,4 +68,40 @@ Impulsar empresas mediante tecnología avanzada, automatización inteligente y s
 📌 **Este repositorio especial hace visible este README en tu perfil público.**
 
 ¡Conectemos, colaboremos y elevemos tus ideas al siguiente nivel! 🚀
+📘 Repositorios Destacados
+Proyecto
+Descripción
+Performanvi-Advanced-Automation
+Automatización avanzada con PowerShell + GitHub Actions
+OpenBB-finanzas
+Finanzas con IA + visualización en tiempo real
+av-is-aviable
+Verificación de disponibilidad usando Node.js + Power Automate
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresMaqueo&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+📬 Contacto Profesional
+Medio
+Enlace
+🌐 Sitio web
+inversionand.com
+💼 LinkedIn
+linkedin.com/in/andresmaqueo
+🐙 GitHub
+github.com/AndresMaqueo
+✉️ Email
+innovacapital@inversionand.com
+✨ Frase que me define
 
+“No solo construyo sistemas. Construyo el futuro del trabajo automatizado.”
+
+⸻
+
+🚀 ¿Listo para colaborar?
+
+Estoy abierto a:
+	•	🎤 Charlas técnicas y paneles (GitGuardian, Microsoft, DevSecOps)
+	•	📊 Auditorías y consultorías de seguridad y automatización
+	•	📦 Desarrollo de soluciones SaaS en Azure + GitHub + Power Platform
+
+¡Conectemos, colaboremos y llevemos tu proyecto al siguiente nivel! 🚀
