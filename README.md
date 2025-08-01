@@ -1,94 +1,120 @@
-🚀 **Andrés Maqueo Infanzón**  
-CTO | Arquitecto de la nube | CISO como servicio  
+# 🚀 Andrés Maqueo Infanzón
+
+**CTO | Arquitecto Cloud | CISO-as-a-Service**  
+*Ingeniero full-stack con enfoque en automatización, seguridad y AI empresarial.*
 
 ---
 
-👋 **Un poco sobre mí**  
-Soy ingeniero full-stack y arquitecto cloud con pasión por la automatización, seguridad y AI empresarial.  
-Mi enfoque: diseñar infraestructuras sin manual de intervención, donde la inteligencia trabaja para las personas.
+## 👋 Sobre mí
+
+Ingeniero full-stack y arquitecto cloud apasionado por diseñar infraestructuras donde la inteligencia artificial y la automatización trabajan al servicio de las personas.
+
+> "No construyo scripts. Orquesto ecosistemas inteligentes."
 
 ---
 
-🧠 **Misión Profesional**  
-Diseñar, automatizar y asegurar entornos empresariales en la nube con enfoque en escalabilidad, gobernanza y eficiencia total.
+## 🧠 Misión Profesional
+
+Diseñar, automatizar y asegurar entornos empresariales con foco en:
+
+- 🔐 Seguridad basada en identidad  
+- ⚙️ Automatización sin intervención manual  
+- ☁️ Escalabilidad y eficiencia  
+- 📈 Gobernanza y observabilidad  
+- 🤖 Aplicaciones impulsadas por IA  
 
 ---
 
-🛠️ **Stack Técnico Destacado**  
-- Lenguajes: PowerShell, Python, JavaScript, TypeScript, C++, Java  
-- Frameworks: React, Node.js, Django, Express, .NET Core, Spring Boot  
-- DevOps: GitHub Actions, Docker, WSL2, Power Automate, OpenAI SDK  
-- Nube: Azure, Microsoft Entra ID, Microsoft 365, Defender, Purview  
-- Bases de datos: SQL Server, PostgreSQL, MongoDB, Cosmos DB, MySQL  
+## 🛠️ Stack Técnico Destacado
+
+### Lenguajes
+💻 PowerShell | 🐍 Python | ⚛️ JavaScript & TypeScript | ⚙️ C++ | ☕ Java
+
+### Frameworks y Librerías
+⚛️ React | 🚀 Node.js | 🌐 Django | 🛠️ Express | 💎 .NET Core | 🔥 Spring Boot
+
+### DevOps & Automatización
+⚙️ GitHub Actions | 🐳 Docker | 🖥️ WSL2 | 🤖 Power Automate | 🤖 OpenAI SDK
+
+### Cloud & Seguridad
+☁️ Azure | 🔑 Microsoft Entra ID | 🛡️ Microsoft 365 Defender | 🔍 Purview | 🔐 Intune | 📊 Sentinel | 📡 Graph API
+
+### Bases de Datos
+🗄️ SQL Server | 🐘 PostgreSQL | 🍃 MongoDB | 🌌 Cosmos DB | 🐬 MySQL
 
 ---
 
-📊 **Estadísticas y Logros**  
+## 📚 Logros y Métricas de Aprendizaje
 
-| Métrica                | Valor           |
-|------------------------|-----------------|
-| 🏅 Módulos completados  | 75              |
-| 📚 Rutas completadas    | 16              |
-| ⏰ Horas de aprendizaje | 56 h 9 min      |
+🎯 **Módulos completados:** 75  
+📖 **Rutas terminadas:** 16  
+⏳ **Horas de formación:** 56 horas y 9 minutos  
 
 ---
 
-⚡ **Habilidades Técnicas**  
+## ⚡ Habilidades Técnicas (Nivel de dominio)
 
-| Habilidad               | Nivel  |
-|------------------------|--------|
-| ☁️ Arquitectura Azure     | 95%    |
-| 🔐 Seguridad Entra ID     | 90%    |
-| ⚙️ Automatización PowerFx | 85%    |
-| 📊 Power BI               | 75%    |
-| 🧠 SDK IA y OpenAI        | 85%    |
-| 🚀 GitHub DevOps          | 90%    |
+- ☁️ **Arquitectura Azure** — 95%  
+- 🔐 **Seguridad en Entra ID** — 90%  
+- 🤖 **Automatización con PowerFx** — 85%  
+- 📊 **Visualización Power BI** — 75%  
+- 🧠 **IA con OpenAI SDK** — 85%  
+- 🚀 **DevOps con GitHub Actions** — 90%  
 
 ---
 
-📦 **Proyectos Estratégicos**  
+## 📦 Proyectos Clave
 
-| Proyecto                | Descripción                                  |
-|------------------------|----------------------------------------------|
-| IA Empresarial          | Infraestructura con Azure + GitHub + Copilot365 |
-| CISO como servicio      | Gobernanza, seguridad e inteligencia centralizada |
-| Kit de automatización GitHub | ALM y automatización para Power Platform |
-| Plataforma SaaS         | Producto de automatización en AppSource       |
+💡 **IA Empresarial**  
+Infraestructura Azure + GitHub + Copilot365 para flujos autónomos.
 
----
+🔒 **CISO-as-a-Service**  
+Plataforma de gobernanza y seguridad con foco en identidad avanzada.
 
-🏆 **Premios y Certificaciones**
+🛠️ **Kit ALM GitHub**  
+Automatización ALM con Power Platform CLI + GitHub Actions.
 
-![Microsoft 365 Threat Protection](https://learn.microsoft.com/en-us/training/achievements/introduction-microsoft-365-threat-protection.svg)  
-![AI Builder Document Automation](https://learn.microsoft.com/en-us/training/achievements/get-started-ai-builder-document-automation.svg)  
-![Windows Virtual Machine Azure](https://learn.microsoft.com/en-us/training/achievements/create-windows-virtual-machine-in-azure.svg)  
-![Azure Synapse Serverless SQL Pools](https://learn.microsoft.com/en-us/training/achievements/use-azure-synapse-serverless-sql-pools-for-transforming-the-data-in-the-lake.svg)  
-![Implement Synapse Link for SQL](https://learn.microsoft.com/en-us/training/achievements/implement-synapse-link-for-sql.svg)  
-![Configure Azure Synapse Link with Cosmos DB](https://learn.microsoft.com/en-us/training/achievements/configure-azure-synapse-link-with-azure-cosmos-db.svg)  
-![Monitoring Tools Azure](https://learn.microsoft.com/en-us/training/achievements/describe-monitoring-tools-azure.svg)  
-![Analyze Images Computer Vision](https://learn.microsoft.com/en-us/training/achievements/analyze-images-computer-vision.svg)  
-![Security Copilot Embedded Experiences](https://learn.microsoft.com/en-us/training/achievements/security-copilot-embedded-experiences.svg)  
-![Secure Data Warehouse Azure Synapse](https://learn.microsoft.com/en-us/training/achievements/secure-a-data-warehouse-in-azure-synapse-analytics.svg)  
-![Use Imperative Dev Techniques](https://learn.microsoft.com/en-us/training/achievements/use-imperative-dev-techniques.svg)  
-![Introduction Information Governance](https://learn.microsoft.com/en-us/training/achievements/introduction-information-governance.svg)  
+🌐 **SaaS Automatizado**  
+Producto en AppSource para procesos críticos automatizados.
 
 ---
 
-🤝 **¿Listo para colaborar?**  
-Estoy disponible para:  
-- 💼 Consultorías técnicas en automatización y seguridad en la nube  
-- 🔍 Auditorías completas de infraestructura, permisos y flujos  
-- 🛠️ Desarrollo de herramientas SaaS para empresas  
-- 🧪 Charlas y talleres sobre DevOps, AI y gobernanza en la nube  
+## 🏆 Certificaciones y Premios
+
+- 🛡️ Protección Microsoft 365  
+- 🤖 AI Builder Documental  
+- ☁️ Máquinas Virtuales Azure  
+- 📈 Azure Synapse y Gobernanza  
+- 🔍 Visión Computacional Cognitive Services  
+- 🧠 Security Copilot Integrado  
 
 ---
 
-📬 **Contacto Profesional**  
-🌐 [inversiónand.com](https://inversionand.com)  
-💼 [LinkedIn](https://linkedin.com/in/andresmaqueo)  
-🐙 [GitHub](https://github.com/AndresMaqueo)  
+## 🤝 ¿Cómo colaborar?
+
+💼 Consultoría en seguridad, automatización y DevOps  
+🧪 Diseño de soluciones empresariales con IA  
+📊 Auditorías de infraestructura y permisos Microsoft  
+🎤 Charlas y talleres de Cloud, AI y DevSecOps  
+
+---
+
+## 📬 Contacto Profesional
+
+🌐 [inversionand.com](https://inversionand.com)  
+🔗 [LinkedIn](https://linkedin.com/in/maqueo)  
+🐙 [GitHub](https://github.com/AndrésMaqueo)  
 ✉️ innovacapital@inversionand.com  
 
 ---
 
-*"No solo construyo sistemas. Construyo el futuro del trabajo automatizado."* 
+> “Automatizo antes de que lo pidas. Protejo antes de que lo necesites. Diseño antes de que escale.”
+
+---
+
+**¿Quieres que te arme este README en formato web para GitHub Pages o Power Apps?**  
+**¿O un CV PDF súper profesional y listo para enviar?**  
+
+Solo dime:  
+🚀 *"Lánzalo"*
+
