@@ -1,49 +1,126 @@
-# 🚀 Andrés Maqueo Infanzón  
-**CTO | Arquitecto Cloud | CISO-as-a-Service**
+<div align="center">
 
-Ingeniero full-stack especializado en **automatización, seguridad e IA aplicada a entornos empresariales**.  
-Diseño sistemas que escalan, se gobiernan y se aseguran desde la identidad.
+# Andrés Maqueo Infanzón
 
-> *No escribo scripts aislados. Orquesto ecosistemas inteligentes.*
+### Cloud · Security · Automation · Applied AI
 
----
+Diseño y documento sistemas técnicos centrados en identidad, automatización, seguridad y gobernanza.
 
-## 🧠 Enfoque Profesional
-- 🔐 Seguridad basada en identidad y Zero Trust  
-- ⚙️ Automatización end-to-end (sin intervención manual)  
-- ☁️ Arquitectura cloud escalable y gobernable  
-- 📊 Observabilidad, control y cumplimiento  
-- 🤖 Integración práctica de IA en procesos reales  
+[![Website](https://img.shields.io/badge/Website-inversionand.com-0A66C2?style=flat-square)](https://inversionand.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AndresMaqueo-181717?style=flat-square&logo=github)](https://github.com/AndresMaqueo)
+
+> **No construyo scripts aislados. Diseño sistemas verificables, automatizados y seguros desde su arquitectura.**
+
+</div>
 
 ---
 
-## 🛠️ Stack Técnico
-**Lenguajes:** PowerShell · Python · TypeScript · C# · Java  
-**DevOps & Automation:** GitHub Actions · Docker · WSL2 · Power Automate  
-**Cloud & Security:** Azure · Entra ID · Intune · Defender · Sentinel · Microsoft Graph  
-**Data:** SQL Server · PostgreSQL · MongoDB · Cosmos DB  
+## Perfil técnico
+
+Trabajo en la intersección de **seguridad basada en identidad**, **automatización**, **arquitectura cloud** e **inteligencia artificial aplicada**. Mi enfoque combina implementación práctica, documentación técnica, evidencia verificable y mejora continua.
+
+| Dominio | Enfoque |
+|---|---|
+| **Identity & Zero Trust** | Microsoft Entra ID, MFA, control de acceso, permisos y gobierno de identidades |
+| **Cloud & Microsoft** | Azure, Microsoft 365, Microsoft Graph, Intune y Defender |
+| **Automation & DevOps** | PowerShell, GitHub Actions, Docker, WSL2 y flujos reproducibles |
+| **Security Engineering** | Baselines, hardening, trazabilidad, evidencia criptográfica y cumplimiento |
+| **Applied AI** | OpenAI, Copilot, agentes y automatización asistida por IA |
 
 ---
 
-## 📦 Proyectos Destacados
-- **CISO-as-a-Service** — Gobernanza y seguridad empresarial centrada en identidad  
-- **ALM Automation Kit** — CI/CD y automatización con GitHub + Power Platform  
-- **AI-Driven Platforms** — Flujos autónomos con OpenAI y Copilot Studio  
+## Tecnologías
+
+**Principales**  
+PowerShell · GitHub Actions · Microsoft Entra ID · Microsoft Graph · Docker · WSL2 · Azure
+
+**Desarrollo y automatización**  
+Python · TypeScript · C# · .NET · Power Automate
+
+**Seguridad y operaciones**  
+Microsoft Defender · Intune · Zero Trust · PKI · BitLocker · Secure Boot · VBS/HVCI
+
+**Datos y plataformas**  
+SQL Server · PostgreSQL · MongoDB · Cosmos DB · Cloudflare
 
 ---
 
-## 🤝 Colaboración
-- Consultoría en **seguridad, automatización y DevSecOps**  
-- Diseño de **soluciones empresariales con IA**  
-- Auditorías de identidad, permisos e infraestructura Microsoft  
+## Proyectos destacados
+
+### [MAQUEOSYSTEM Security Docs](https://github.com/AndresMaqueo/maqueosystem-security-docs)
+Documentación y automatización de una línea base de seguridad para Windows, con controles verificables, evidencia firmada, hashes SHA-256, trazabilidad y flujos de validación mediante GitHub Actions.
+
+**Áreas:** Windows Security · PowerShell · DevSecOps · Compliance · Cryptographic Evidence
+
+### DevSecOps Pro Template
+Plantilla orientada a integrar seguridad, automatización y controles operativos dentro del ciclo de desarrollo.
+
+**Áreas:** CI/CD · Security Automation · Governance · Documentation
+
+### Plataformas y agentes con IA
+Exploración de arquitecturas donde agentes, servicios cloud y automatizaciones colaboran para ejecutar procesos técnicos con supervisión, trazabilidad y controles de acceso.
+
+**Áreas:** OpenAI · Copilot · Microsoft Graph · Agentic Workflows
 
 ---
 
-## 📬 Contacto
-🌐 https://inversionand.com  
-🔗 LinkedIn · GitHub  
-✉️ innovacapital@inversionand.com  
+## Principios de ingeniería
 
-*Automatizo antes de que lo pidas. Protejo antes de que lo necesites. Diseño antes de que escale.*
+- **Security by design:** la seguridad se define desde la arquitectura, no al final del proyecto.
+- **Identity first:** la identidad, los permisos y la trazabilidad son parte del plano de control.
+- **Automation with evidence:** una automatización útil debe producir resultados reproducibles y verificables.
+- **Least privilege:** cada servicio, usuario y agente debe operar con el menor privilegio necesario.
+- **Documentation as code:** la documentación debe evolucionar junto con el sistema que describe.
 
+---
 
+## En desarrollo
+
+- Frameworks de auditoría y validación para Windows 11 Pro.
+- Evidencia criptográfica aplicada a controles de seguridad.
+- Automatizaciones empresariales con Microsoft Graph y GitHub Actions.
+- Integraciones entre IA, identidad y operaciones cloud.
+- Arquitecturas observables, gobernables y preparadas para cumplimiento.
+
+---
+
+## Entorno técnico
+
+```text
+Windows 11 Pro
+├── PowerShell 7
+├── WSL2 / Ubuntu
+├── Docker Desktop
+├── GitHub Actions
+├── Microsoft 365 / Entra ID
+├── Azure / Microsoft Graph
+└── Cloudflare / Zero Trust
+```
+
+---
+
+## Colaboración
+
+Me interesan proyectos relacionados con:
+
+- seguridad de identidad y entornos Microsoft;
+- automatización técnica y DevSecOps;
+- documentación de arquitectura y controles;
+- plataformas cloud gobernables;
+- aplicaciones prácticas de IA y agentes.
+
+---
+
+## Contacto
+
+- **Sitio web:** [inversionand.com](https://inversionand.com)
+- **GitHub:** [github.com/AndresMaqueo](https://github.com/AndresMaqueo)
+- **Correo:** [innovacapital@inversionand.com](mailto:innovacapital@inversionand.com)
+
+---
+
+<div align="center">
+
+**Automatización con propósito · Seguridad verificable · Arquitectura preparada para escalar**
+
+</div>
